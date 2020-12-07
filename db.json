@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "nama": "Rafa Lailatul",
+      "tempat_tanggal_lahir": "Semarang, 16 September 2004",
+      "sekolah": "SMK Bina Nusantara",
+      "jurusan": "TKJ",
+      "kelas": "10",
+      "id": 0
+    },
+    {
+      "nama": "Ilham Santoso",
+      "tempat_tanggal_lahir": "Semarang, 23 April 2004",
+      "sekolah": "SMK Bina Nusantara",
+      "jurusan": "TKJ",
+      "kelas": 10,
+      "id": 1
+    },
+    {
+      "nama": "Prasetya Dani",
+      "tempat_tanggal_lahir": "Semarang, 1 Januari 2004",
+      "sekolah": "SMK Bina Nusantara",
+      "jurusan": "TKJ",
+      "kelas": "10",
+      "id": 2
+    },
+    {
+      "nama": "Rita Setya",
+      "tempat_tanggal_lahir": "Semarang, 14 Januari 2004",
+      "sekolah": "SMK Bina Nusantara",
+      "jurusan": "TKJ",
+      "kelas": "10",
+      "id": 3
+    }
+  ]
+}
